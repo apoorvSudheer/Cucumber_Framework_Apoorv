@@ -12,7 +12,7 @@ import org.apache.http.util.EntityUtils;
 /**
  * GET and POST Request Generic
  */
-public class App {
+public class Application {
 	public String getRequest(String Endpoint) throws IOException {
 		CloseableHttpClient httpclient = HttpClients.createDefault();
 		System.out.println("URL: " + Endpoint);

@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import org.junit.runner.RunWith;
 
-import ask.auto.App;
+import ask.auto.Application;
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
